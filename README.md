@@ -18,7 +18,7 @@ public class JvmComprehension {
     }
 }
 
-Области памяти
+	Области памяти
 	1.	Метаспейс
 	Здесь хранятся классы, загружаемые ClassLoader.
 	JvmComprehension и его методы загружаются сюда.
